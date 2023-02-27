@@ -5,10 +5,10 @@
 
 To build a model to predict if review is positive or negative, following steps are performed.
 
-Importing Dataset
-Preprocessing Dataset
-Vectorization
-Training and Classification
+Importing Dataset,
+Preprocessing Dataset,
+Vectorization,
+Training and Classification,
 Analysis Conclusion
 
 #Tools & Technologies Used:
